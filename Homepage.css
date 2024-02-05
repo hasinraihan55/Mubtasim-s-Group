@@ -1,0 +1,55 @@
+body {
+    width: 100%;
+    margin: 0;
+    background: #807917;
+}
+
+.nav div {
+    height: 4 px;
+    background-color: #0f0f0f;
+    margin: 5px 0;
+    border-radius: 25px;
+    transition: 0.3s;
+}
+
+.nav {
+    width: 30px;
+    display: block;
+    border-radius: lem 0 0 lem;
+}
+
+.one {
+    width: 30px;
+}
+
+.two {
+    width: 20px;
+}
+
+.three {
+    width: 25px;
+}
+
+.nav:hover div {
+    width: 30 px;
+}
+
+.welcome-text {
+    text-align: right;
+    padding: 450px 1200px 100px 100px;
+    font-family: 'Lucida Sans';
+}
+
+.purpose {
+    font-weight: 700;
+    text-align: left;
+    padding: 450px 1200px 100px 100px;
+    font-family: 'Lucida Sans';
+}
+
+.purpose-text {
+    font-weight: 700;
+    text-align: right;
+    padding: 450px 1200px 100px 100px;
+    font-family: 'Lucida Sans';
+}
